@@ -53,9 +53,6 @@ The application is encapsulated in a class named `MyGUI` and includes the follow
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Author
-- Leslie
-
 Feel free to reach out for any questions or contributions. Happy coding!
 
 ---
